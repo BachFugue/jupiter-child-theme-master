@@ -1,0 +1,1 @@
+console.log("jupiter child theme ready!");
